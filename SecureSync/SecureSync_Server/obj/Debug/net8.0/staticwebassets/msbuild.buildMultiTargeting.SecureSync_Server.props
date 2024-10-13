@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SecureSync_Server.props" />
+</Project>

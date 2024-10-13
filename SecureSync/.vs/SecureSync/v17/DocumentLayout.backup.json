@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SecureSync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}|SecureSync\\SecureSync.csproj|d:\\securesync\\securesync\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}|SecureSync\\SecureSync.csproj|solutionrelative:securesync\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}|SecureSync\\SecureSync.csproj|d:\\securesync\\securesync\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}|SecureSync\\SecureSync.csproj|solutionrelative:securesync\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563DA754-D370-4308-BE92-7D9FE1F6B108}|SecureSync_Server\\SecureSync_Server.csproj|d:\\securesync\\securesync_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{563DA754-D370-4308-BE92-7D9FE1F6B108}|SecureSync_Server\\SecureSync_Server.csproj|solutionrelative:securesync_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SecureSync\\SecureSync\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SecureSync\\MainWindow.xaml",
+              "ToolTip": "D:\\SecureSync\\SecureSync\\MainWindow.xaml",
+              "RelativeToolTip": "SecureSync\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T15:26:48.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SecureSync\\SecureSync_Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SecureSync_Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\SecureSync\\SecureSync_Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SecureSync_Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T15:24:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SecureSync\\SecureSync\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SecureSync\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SecureSync\\SecureSync\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SecureSync\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:00:49.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

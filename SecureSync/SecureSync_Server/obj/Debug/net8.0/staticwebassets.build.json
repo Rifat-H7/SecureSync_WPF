@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lEPYdGVnL1nYFlWDtMprbYZ2WCUZkbe39o8QpWY4aHs=",
+  "Source": "SecureSync_Server",
+  "BasePath": "_content/SecureSync_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

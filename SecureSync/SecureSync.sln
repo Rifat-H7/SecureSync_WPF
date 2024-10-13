@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureSync", "SecureSync\SecureSync.csproj", "{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureSync_Server", "SecureSync_Server\SecureSync_Server.csproj", "{563DA754-D370-4308-BE92-7D9FE1F6B108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FEEDE5-2EA0-4088-99E8-C4D78AE14F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563DA754-D370-4308-BE92-7D9FE1F6B108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563DA754-D370-4308-BE92-7D9FE1F6B108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563DA754-D370-4308-BE92-7D9FE1F6B108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563DA754-D370-4308-BE92-7D9FE1F6B108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E478DD15-1BEA-4352-B793-1358C366E002}
+	EndGlobalSection
+EndGlobal
